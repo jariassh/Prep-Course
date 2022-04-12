@@ -1,0 +1,17 @@
+DEFINICION DE CONCEPTOS
+
+* VARIABLES: 
+Se define como variables un espacio reservado en memoria de la computadora cuyo contenido puede variar con el tiempo, es muy usada para almacenar en ella datos que estarán cambiando. Junto a este concepto hay otro similar con diferente comportamiento llamado CONSTANTE, asi como su nombre lo indica su contenido nunca podrá variar durante la ejecución de la aplicacion, pues es usada para almacenar contenido que permanecerá fijo en su interior, como ejemplo podemos definir que PI puede almacenarse en una constante ya que PI ~ 3.1416 nunca cambiará, a diferencia de una variable por ejemplo para Nombres de una persona, identificacion, etc. son datos que con el pasar del tiempo pueden variar.
+
+* STRING:
+Es un tipo de dato usado y el cual es asignado a una variable o constante, string indica que determinada variable o constante será de tipo texto. Así como existe el tipo de dato String, existen muchos tipos de datos entre los que encontraremos Enteros, Booleanos, Decimales, de tipo Fecha, de tipo Hora, etc.
+
+* FUNCIONES:
+Las funciones en un lenguaje de programación, se puede definir como fragmentos de código que será ejecutado una vez invocada dicha funcion, las mismas pueden ser de varios tipos, hay funciones con retorno de valores, funciones sin retorno (Solo ejecutan ciertar cantidad de código interno sin emitir algun retorno), funciones con argumentos, funciones sin argumentos, etc. Para hacer uso de una funcion, ésta debe ser declarada de manera previa a su llamado.
+
+* DECLARACION IF:
+Esta declaración hace parte de los statement, en este caso se trata de condiconales que evalúa una expresión, es muy usada para evaluar una o más expresiones de manera anidada, sin embargo al igual que el IF () {}, existe otras declarasiones para la toma de decision, como el Switch, etc. 
+
+
+* VALORES BOOLEANOS:
+Se trata de un tipo de datos cuyo resultado solo puede variar entre positivo y negativo, o tambien entre 0 y 1... Es como cuando tomamos por referencia el interruptor de energía de nuestra habitacion, cuando lo encendemos decimos que la respuesta sería de 1 y cuando lo apagamos decimos que la respuesta sería 0. 
