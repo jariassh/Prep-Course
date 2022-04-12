@@ -1,0 +1,14 @@
+** CONCEPTOS JAVASCRIPT II
+
+* FOR:
+Se trata de un ciclo de control, muy usado cuando conocemos un punto de parada, se utiliza como realizar N cantidad de tareas teniendo un punto de partida y frenando las mismas con un punto de parada, es decir nos ayuda a la reutilización de código de manera dinámica controlada, lo cual hará que podamos resolver grandes problemas con unas pocas lineas de código.
+
+
+OPERADORES LÓGICOS:
+En la programación, encontramos una serie de operadores lógicos que nos ayudan a tomar decisiones basados en expresiones. Entre los distintos operadores que podemos encontrar están los siguientes. 
+
+* &&:  (Y), (AND), Este operador nos ayuda a tomar una decisión si la expresión anterior y la posterior se cumplen. En Javascript la palabra "Y" se representa mediante los simbolos &&, en otros lenguajes de programación puede ser "AND" u otras palabras reservadas del lenguaje que se esté utilizando. 
+
+* ||: (OR) Este operador, nos permite continuar un flujo de código, siempre y cuando una de las dos expresiones se cumple, es por ello que decimos, expresion uno no se cumple pero la expresion dos si que se cumple, entonces realice determinadas tareas. En otros lenguajes de programacion suele escribirse en ingles, la palabra "OR".
+
+* !: (False), (Not), El operador de negación, es usado para determinar la respuesta contraria al resultado de una expresión, por decir evaluamos cuando no se cumple cierta condicion o cuando la misma retorna un valor negativo. En otros lenguajes de programacion se puede usar como "False" o como "Not" simplemente para encontrar lo contrario con la expresion escrita a evaluar.
