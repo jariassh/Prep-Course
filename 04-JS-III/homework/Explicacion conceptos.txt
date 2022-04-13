@@ -1,0 +1,6 @@
+*** EXPLICACION DE CONCEPTOS ***
+
+* ARRAYS:
+Los Arrays o tambien llamados arreglos en programación, son variables con capacidad de almacenar en un interior incluso otras variables, imagina tener una caja de carton, y dentro de ella tienes "N" número de cajas, las cuales cada caja contendrá uno o varios elementos del mismo tipo o naturaleza. En definitiva para esto usamos los arreglos, para poner muchos elementos adentro siempre y cuando comparten el mismo tipo de dato, nunca podremos combinar datos dentro de un mismo arreglo, es decir no podemos almacenar texto y numeros o valores booleanos juntos. Los array pueden ser unidimensionales, es decir solo almacenar elementos que no podrán tener elementos adentro, bidimensionales, es tener una caja con otras cajas adentro que en su interior almacentan objetos, multidimentsionales, son aquellos que en su interior puede contener cajas que contienen otras cajas y en ellas objetos y asi sucesivamente. 
+
+Para conocer el contenido de un array, se debe recorrer el mismo mediante ciclos o bucles controlados o no controlados. cada una de sus dimesiones debe ser recorrida por un bucle o iteraccion. 
