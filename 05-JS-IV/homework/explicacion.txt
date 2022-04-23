@@ -1,0 +1,16 @@
+** OBJETOS
+los objetos pueden ser definidos como una caja con compartimentos internos las cuales pueden contener gran varierdad de articulos. En el mundo de la programación usamos objetos para reunir información y acortar la creación de código. 
+
+Asi como en una caja se puede poner dentro variedad de articulos con los objetos almacenamos de manera organizada información para luego hacer referencia a la misma mediante una llave o nombre propio del conjunto de informacion.
+
+** Propiedades:
+
+Las propiedades son los nombres o las definiciones de un conjunto de informacion. Por ejemplo, si en una caja designamos un compartimentos para un conjunto de informacion, en un objeto podemos poner una llave nombres y en el poner un array con los nombres de usuario, en el caso de referirnos a un objeto de usuarios. 
+
+** Metodos:
+
+Los métodos o tambien llamados funciones, son conjuntos de algoritmos para realizar una determinada tarea, las funciones o métodos pueden ser usados para acortar la cantidad de código escrito. 
+
+** Bucles
+
+Los bucles, son estructuras de repeticion de código con un determinado limito sin límite. Entre ellos encontramos los bucles for, while, do while, etc. usadas para hacer determinadas acciones hasta cierto punto en nuestra aplicacion. 
